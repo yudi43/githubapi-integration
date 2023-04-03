@@ -3,7 +3,8 @@
 ![pg1](https://user-images.githubusercontent.com/15618230/229617261-67561f37-7b58-49eb-87bd-b7a8cbbe7c54.PNG)
 ![pg2](https://user-images.githubusercontent.com/15618230/229617294-0234e06f-dcce-4eb9-8821-e84adf7107d2.PNG)
 ![pg3](https://user-images.githubusercontent.com/15618230/229617313-3d2a1166-476b-4b56-b308-134cd336bdfc.PNG)
-![ss](https://user-images.githubusercontent.com/15618230/229617335-a2b7e9c4-573e-4711-a909-a7e7aa34f29c.PNG)
+![pagination](https://user-images.githubusercontent.com/15618230/229617453-5f438dcd-cfa2-4a62-af03-7f7cc91a46e2.PNG)
+
 
 # Getting Started with Create React App
 
